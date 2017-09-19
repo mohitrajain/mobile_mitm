@@ -10,7 +10,9 @@
 
 ## Note :- we can also use squid proxy server in transparent mode to intercept user data.
 
-## Full blown steps of mitm and report on mobile privacy is present [here]().
+# Full blown steps of mitm and report on mobile privacy is present [here](https://github.com/mohitrajain/mobile_mitm/blob/master/mobile_privacy.pdf).
+ 
+## Note :- all ids , macs , imei numbers are spoofed .
 
 # Disclaimer :
 1. All the statements made in the report are my personal views .
